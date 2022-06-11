@@ -1,0 +1,15 @@
+{
+  "name": "library-system-main",
+  "version": "1.0.0",
+  "description": "Learn MERN with this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lib-sys"
+  },
+  "author": "Lashika Malith",
+  "license": "ISC"
+}
